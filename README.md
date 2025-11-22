@@ -1,3 +1,3 @@
 # FirstRepo
-first repo creating
-Author - ANshu SIngh
+first repo creating <br> 
+Author - Anshu Singh
